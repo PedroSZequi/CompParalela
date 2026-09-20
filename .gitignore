@@ -1,0 +1,12 @@
+# Executáveis gerados pelos programas em C
+parte1/contacorrente_seq
+parte1/contacorrente_f1
+parte1/contacorrente_f2
+
+parte2/primos
+parte2/monte_carlo_pi
+parte2/soma_vetores
+
+# Arquivos temporários
+*.o
+__pycache__/
