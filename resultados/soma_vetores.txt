@@ -1,0 +1,24 @@
+========== 1 THREAD(S) ==========
+[Soma Vetores] N: 50000000 | Threads: 1 | Resultado: correto | Tempo: 0.164813 s
+[Soma Vetores] N: 50000000 | Threads: 1 | Resultado: correto | Tempo: 0.191035 s
+[Soma Vetores] N: 50000000 | Threads: 1 | Resultado: correto | Tempo: 0.179488 s
+[Soma Vetores] N: 50000000 | Threads: 1 | Resultado: correto | Tempo: 0.150960 s
+[Soma Vetores] N: 50000000 | Threads: 1 | Resultado: correto | Tempo: 0.141414 s
+========== 2 THREAD(S) ==========
+[Soma Vetores] N: 50000000 | Threads: 2 | Resultado: correto | Tempo: 0.145782 s
+[Soma Vetores] N: 50000000 | Threads: 2 | Resultado: correto | Tempo: 0.107022 s
+[Soma Vetores] N: 50000000 | Threads: 2 | Resultado: correto | Tempo: 0.106616 s
+[Soma Vetores] N: 50000000 | Threads: 2 | Resultado: correto | Tempo: 0.143599 s
+[Soma Vetores] N: 50000000 | Threads: 2 | Resultado: correto | Tempo: 0.102725 s
+========== 4 THREAD(S) ==========
+[Soma Vetores] N: 50000000 | Threads: 4 | Resultado: correto | Tempo: 0.113238 s
+[Soma Vetores] N: 50000000 | Threads: 4 | Resultado: correto | Tempo: 0.106638 s
+[Soma Vetores] N: 50000000 | Threads: 4 | Resultado: correto | Tempo: 0.123430 s
+[Soma Vetores] N: 50000000 | Threads: 4 | Resultado: correto | Tempo: 0.140954 s
+[Soma Vetores] N: 50000000 | Threads: 4 | Resultado: correto | Tempo: 0.137380 s
+========== 8 THREAD(S) ==========
+[Soma Vetores] N: 50000000 | Threads: 8 | Resultado: correto | Tempo: 0.105197 s
+[Soma Vetores] N: 50000000 | Threads: 8 | Resultado: correto | Tempo: 0.102177 s
+[Soma Vetores] N: 50000000 | Threads: 8 | Resultado: correto | Tempo: 0.100187 s
+[Soma Vetores] N: 50000000 | Threads: 8 | Resultado: correto | Tempo: 0.103906 s
+[Soma Vetores] N: 50000000 | Threads: 8 | Resultado: correto | Tempo: 0.108244 s

@@ -1,0 +1,24 @@
+========== 1 THREAD(S) ==========
+[Primos] K: 5000000 | Threads: 1 | Quantidade: 348513 | Tempo: 0.724502 s
+[Primos] K: 5000000 | Threads: 1 | Quantidade: 348513 | Tempo: 0.726965 s
+[Primos] K: 5000000 | Threads: 1 | Quantidade: 348513 | Tempo: 0.743080 s
+[Primos] K: 5000000 | Threads: 1 | Quantidade: 348513 | Tempo: 0.738313 s
+[Primos] K: 5000000 | Threads: 1 | Quantidade: 348513 | Tempo: 0.722797 s
+========== 2 THREAD(S) ==========
+[Primos] K: 5000000 | Threads: 2 | Quantidade: 348513 | Tempo: 0.722391 s
+[Primos] K: 5000000 | Threads: 2 | Quantidade: 348513 | Tempo: 0.733311 s
+[Primos] K: 5000000 | Threads: 2 | Quantidade: 348513 | Tempo: 0.725169 s
+[Primos] K: 5000000 | Threads: 2 | Quantidade: 348513 | Tempo: 0.728358 s
+[Primos] K: 5000000 | Threads: 2 | Quantidade: 348513 | Tempo: 0.730413 s
+========== 4 THREAD(S) ==========
+[Primos] K: 5000000 | Threads: 4 | Quantidade: 348513 | Tempo: 0.723214 s
+[Primos] K: 5000000 | Threads: 4 | Quantidade: 348513 | Tempo: 0.785596 s
+[Primos] K: 5000000 | Threads: 4 | Quantidade: 348513 | Tempo: 0.800957 s
+[Primos] K: 5000000 | Threads: 4 | Quantidade: 348513 | Tempo: 0.732183 s
+[Primos] K: 5000000 | Threads: 4 | Quantidade: 348513 | Tempo: 0.724769 s
+========== 8 THREAD(S) ==========
+[Primos] K: 5000000 | Threads: 8 | Quantidade: 348513 | Tempo: 0.719546 s
+[Primos] K: 5000000 | Threads: 8 | Quantidade: 348513 | Tempo: 0.729742 s
+[Primos] K: 5000000 | Threads: 8 | Quantidade: 348513 | Tempo: 0.720341 s
+[Primos] K: 5000000 | Threads: 8 | Quantidade: 348513 | Tempo: 0.728178 s
+[Primos] K: 5000000 | Threads: 8 | Quantidade: 348513 | Tempo: 0.727813 s

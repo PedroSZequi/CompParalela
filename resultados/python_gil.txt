@@ -1,0 +1,12 @@
+========== PYTHON SEQUENCIAL ==========
+[Python Sequencial] Tempo: 4.9912 segundos
+[Python Sequencial] Tempo: 4.7840 segundos
+[Python Sequencial] Tempo: 4.8745 segundos
+[Python Sequencial] Tempo: 4.8191 segundos
+[Python Sequencial] Tempo: 4.9145 segundos
+========== PYTHON THREADS ==========
+[Python com Threads] Tempo: 4.8785 segundos
+[Python com Threads] Tempo: 5.0026 segundos
+[Python com Threads] Tempo: 4.8688 segundos
+[Python com Threads] Tempo: 5.0097 segundos
+[Python com Threads] Tempo: 4.8186 segundos

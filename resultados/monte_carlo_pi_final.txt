@@ -1,0 +1,24 @@
+========== 1 THREAD(S) ==========
+[Monte Carlo] N: 100000000 | Threads: 1 | Pi: 3.14163972 | Tempo: 1.240552 s
+[Monte Carlo] N: 100000000 | Threads: 1 | Pi: 3.14147632 | Tempo: 1.275160 s
+[Monte Carlo] N: 100000000 | Threads: 1 | Pi: 3.14159900 | Tempo: 1.239835 s
+[Monte Carlo] N: 100000000 | Threads: 1 | Pi: 3.14155044 | Tempo: 1.247860 s
+[Monte Carlo] N: 100000000 | Threads: 1 | Pi: 3.14163820 | Tempo: 1.247732 s
+========== 2 THREAD(S) ==========
+[Monte Carlo] N: 100000000 | Threads: 2 | Pi: 3.14156944 | Tempo: 0.853525 s
+[Monte Carlo] N: 100000000 | Threads: 2 | Pi: 3.14166604 | Tempo: 0.767610 s
+[Monte Carlo] N: 100000000 | Threads: 2 | Pi: 3.14169764 | Tempo: 0.748404 s
+[Monte Carlo] N: 100000000 | Threads: 2 | Pi: 3.14163968 | Tempo: 0.876095 s
+[Monte Carlo] N: 100000000 | Threads: 2 | Pi: 3.14148796 | Tempo: 0.781453 s
+========== 4 THREAD(S) ==========
+[Monte Carlo] N: 100000000 | Threads: 4 | Pi: 3.14160236 | Tempo: 0.855530 s
+[Monte Carlo] N: 100000000 | Threads: 4 | Pi: 3.14171000 | Tempo: 0.873550 s
+[Monte Carlo] N: 100000000 | Threads: 4 | Pi: 3.14179624 | Tempo: 0.740756 s
+[Monte Carlo] N: 100000000 | Threads: 4 | Pi: 3.14160332 | Tempo: 0.740426 s
+[Monte Carlo] N: 100000000 | Threads: 4 | Pi: 3.14186104 | Tempo: 0.776229 s
+========== 8 THREAD(S) ==========
+[Monte Carlo] N: 100000000 | Threads: 8 | Pi: 3.14142680 | Tempo: 0.739761 s
+[Monte Carlo] N: 100000000 | Threads: 8 | Pi: 3.14171688 | Tempo: 0.757595 s
+[Monte Carlo] N: 100000000 | Threads: 8 | Pi: 3.14192012 | Tempo: 0.868125 s
+[Monte Carlo] N: 100000000 | Threads: 8 | Pi: 3.14152864 | Tempo: 0.825056 s
+[Monte Carlo] N: 100000000 | Threads: 8 | Pi: 3.14187624 | Tempo: 0.737385 s
